@@ -1,1 +1,3 @@
-console.log("Hello Data Structure App!")
+import { demoBasicTypes } from "./ts-playground/ts-basic-types";
+
+demoBasicTypes();
